@@ -1,0 +1,16 @@
+.container {
+  width: 200px;
+  border: 1px solid #ccc;
+  border-radius: 14px;
+  -webkit-border-radius: 14px;
+  -moz-border-radius: 14px;
+  -ms-border-radius: 14px;
+  -o-border-radius: 14px;
+  padding: 2em;
+}
+.avatar {
+  width: 100%;
+}
+.title {
+  color: blue;
+}
